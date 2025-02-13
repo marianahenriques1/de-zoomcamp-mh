@@ -50,6 +50,14 @@ Answer: Partition by tpep_dropoff_datetime and Cluster on VendorID
 
 Answer: 310.24 MB for non-partitioned table and 26.84 MB for the partitioned table
 
+## Question 7
+
+Answer: GCP Bucket
+
+## Question 8
+
+Answer: False
+
 
 
 
